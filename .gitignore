@@ -1,1 +1,5 @@
-*.txt
+project.txt
+.env
+**/.env
+__pycache__/
+*.py[cod]
